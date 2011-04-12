@@ -627,7 +627,7 @@
       },
       options: {
         url: window.location.href,
-        type: "POST"
+        type: "PUT"
       }
     }
   });
